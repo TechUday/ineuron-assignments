@@ -1,0 +1,50 @@
+ 2022-12-19 11:44:56,011 - DEBUG - Data Inserted Successfully
+ 2022-12-19 11:44:56,012 - DEBUG - Connection Closed Successfully
+ 2022-12-19 11:45:43,267 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+ 2022-12-19 11:45:43,319 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+ 2022-12-19 11:45:43,406 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+ 2022-12-19 11:45:43,421 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+ 2022-12-19 12:10:43,900 - DEBUG - diff parser start
+ 2022-12-19 12:10:43,900 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-19 12:10:44,262 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-19 12:10:44,262 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 12:10:44,262 - DEBUG - diff parser end
+ 2022-12-19 12:11:06,269 - DEBUG - diff parser start
+ 2022-12-19 12:11:06,269 - DEBUG - line_lengths old: 1; new: 2
+ 2022-12-19 12:11:06,269 - DEBUG - -> code[replace] old[1:1] new[1:2]
+ 2022-12-19 12:11:06,269 - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+ 2022-12-19 12:11:06,269 - DEBUG - diff parser end
+ 2022-12-19 12:11:12,441 - DEBUG - diff parser start
+ 2022-12-19 12:11:12,441 - DEBUG - line_lengths old: 2; new: 2
+ 2022-12-19 12:11:12,441 - DEBUG - -> code[equal] old[1:1] new[1:1]
+ 2022-12-19 12:11:12,441 - DEBUG - copy old[1:1] new[1:1]
+ 2022-12-19 12:11:12,441 - DEBUG - -> code[replace] old[2:2] new[2:2]
+ 2022-12-19 12:11:12,442 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+ 2022-12-19 12:11:12,442 - DEBUG - diff parser end
+ 2022-12-19 12:11:12,960 - DEBUG - diff parser start
+ 2022-12-19 12:11:12,960 - DEBUG - line_lengths old: 2; new: 2
+ 2022-12-19 12:11:12,960 - DEBUG - -> code[equal] old[1:1] new[1:1]
+ 2022-12-19 12:11:12,960 - DEBUG - copy old[1:1] new[1:1]
+ 2022-12-19 12:11:12,960 - DEBUG - -> code[replace] old[2:2] new[2:2]
+ 2022-12-19 12:11:12,961 - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+ 2022-12-19 12:11:12,961 - DEBUG - diff parser end
+ 2022-12-19 12:15:40,892 - DEBUG - diff parser start
+ 2022-12-19 12:15:40,893 - DEBUG - line_lengths old: 2; new: 1
+ 2022-12-19 12:15:40,894 - DEBUG - -> code[replace] old[1:2] new[1:1]
+ 2022-12-19 12:15:40,894 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 12:15:40,894 - DEBUG - diff parser end
+ 2022-12-19 12:35:52,940 - DEBUG - diff parser start
+ 2022-12-19 12:35:52,940 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-19 12:35:52,940 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-19 12:35:52,941 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 12:35:52,941 - DEBUG - diff parser end
+ 2022-12-19 12:36:47,610 - DEBUG - diff parser start
+ 2022-12-19 12:36:47,612 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-19 12:36:47,612 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-19 12:36:47,613 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 12:36:47,614 - DEBUG - diff parser end
+ 2022-12-19 12:36:47,754 - DEBUG - diff parser start
+ 2022-12-19 12:36:47,754 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-19 12:36:47,755 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-19 12:36:47,755 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 12:36:47,755 - DEBUG - diff parser end

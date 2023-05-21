@@ -1,0 +1,23 @@
+ 2022-12-19 11:43:21,922 - DEBUG - Data Inserted Successfully
+ 2022-12-19 11:43:21,923 - DEBUG - Connection Closed Successfully
+ 2022-12-19 11:43:56,648 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+ 2022-12-19 11:43:56,704 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+ 2022-12-19 11:43:56,835 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\typing.py
+ 2022-12-19 11:43:56,871 - DEBUG - pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+ 2022-12-19 11:43:57,226 - DEBUG - diff parser start
+ 2022-12-19 11:43:57,226 - DEBUG - line_lengths old: 1; new: 1
+ 2022-12-19 11:43:57,553 - DEBUG - -> code[replace] old[1:1] new[1:1]
+ 2022-12-19 11:43:57,554 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 11:43:57,554 - DEBUG - diff parser end
+ 2022-12-19 11:44:39,799 - DEBUG - diff parser start
+ 2022-12-19 11:44:39,800 - DEBUG - line_lengths old: 1; new: 2
+ 2022-12-19 11:44:39,800 - DEBUG - -> code[replace] old[1:1] new[1:2]
+ 2022-12-19 11:44:39,803 - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+ 2022-12-19 11:44:39,803 - DEBUG - diff parser end
+ 2022-12-19 11:44:41,847 - DEBUG - Data Inserted Successfully
+ 2022-12-19 11:44:41,848 - DEBUG - Connection Closed Successfully
+ 2022-12-19 11:44:45,989 - DEBUG - diff parser start
+ 2022-12-19 11:44:45,991 - DEBUG - line_lengths old: 2; new: 1
+ 2022-12-19 11:44:45,992 - DEBUG - -> code[replace] old[1:2] new[1:1]
+ 2022-12-19 11:44:45,994 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+ 2022-12-19 11:44:45,995 - DEBUG - diff parser end
